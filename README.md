@@ -1,8 +1,6 @@
 # Matplotlib Homework - The Power of Plots
 
-
 # Pymaceuticals Capomulin effects on Squamous Cell Carcinoma progression
-
 
 * Pymaceuticals specializes in anti-cancer pharmaceuticals. In its most recent efforts, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
@@ -28,3 +26,4 @@
 
 * Mouse weight correlated strongly (R-squared of 0.84) with average tumor volume. Therefore correlating only the final tumor volume to efficacy without controlling for mouse weight could skew the interpretation of efficacy.
 ![LineChart](/Images/ScatterWeightTumorVolRegression.png)
+

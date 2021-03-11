@@ -24,6 +24,7 @@
 * Based on average final tumor volume both Capomulin and Ramicane appeared to be equally effective, but to be sure of this we would need to make sure the starting tumor volumes were equivalent. Of these four drugs of interest (Capomulin, Ramicane, Infubinol, and Ceftamin) only Infubinol had one outlier data point - the rest were "well behaved" with the datasets not having any outliers.
 ![BoxWhiskerPlot](/Images/BoxWhiskerPlot.png)
 
+
 * Mouse weight correlated strongly (R-squared of 0.84) with average tumor volume. Therefore correlating only the final tumor volume to efficacy without controlling for mouse weight could skew the interpretation of efficacy.
 ![LineChart](/Images/ScatterWeightTumorVolRegression.png)
 
